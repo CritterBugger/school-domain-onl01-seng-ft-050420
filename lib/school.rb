@@ -20,5 +20,7 @@ class School
     return @roster[grade]
   end
   
-  
+  def sort()
+    @roster.each do |
+  end
 end
